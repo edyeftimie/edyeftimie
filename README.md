@@ -1,6 +1,6 @@
 ## Hi there 👋
-![]([https://gitu](https://github.com/edyeftimie/edyeftimie/blob/main/kitten-waving.gif)
-<!--
+![Hello]([https://gitu](https://github.com/edyeftimie/edyeftimie/blob/main/kitten-waving.gif?raw=true)
+
 **edyeftimie/edyeftimie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # About me
 #### 🎓 Second year student at BBU Cluj-Napoca
@@ -59,5 +59,3 @@
 
 ### Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FintinaOlivia&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
--->
