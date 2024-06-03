@@ -3,12 +3,15 @@
   <img src="https://github.com/edyeftimie/edyeftimie/blob/main/kitten-waving.gif"  width="222" />
 </div>
 
+<!--
 **edyeftimie/edyeftimie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 # About me
 #### 🎓 Second year student at BBU Cluj-Napoca
 #### 👨🏽‍💻 Currently working at a Web Application
 #### 📑 You can find more about my profesional carrer in my CV 
-#### 🎮 Passioned about gaming, expecially AC series & Fifa, and a football watcher
+#### 🎮 Passioned about gaming, expecially AC series & Fifa, and a football lover
 
 # Programming languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
