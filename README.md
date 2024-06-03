@@ -63,4 +63,4 @@
 ![Virtual Machine](https://img.shields.io/badge/Virtual_Machine-424242?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ### Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FintinaOlivia&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FintinaOlivia&layout=compact&theme=vision-friendly-dark)](https://github.com/edyeftimie/github-readme-stats)
