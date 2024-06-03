@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXRtdnhreGp4bzE0MWh1bmkzZmxrMjczZHhrNG13YzNpMmxldnR5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WhoNyvVjuB88HjDK0l/giphy.gif](https://github.com/edyeftimie/edyeftimie/blob/main/kitten-waving.gif)"  width="222" />
+  <img src="https://github.com/edyeftimie/edyeftimie/blob/main/kitten-waving.gif"  width="222" />
 </div>
 
 **edyeftimie/edyeftimie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
