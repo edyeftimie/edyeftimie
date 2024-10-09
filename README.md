@@ -8,7 +8,7 @@
 -->
 
 # About me
-#### 🎓 Second year student at BBU Cluj-Napoca
+#### 🎓 Third year student at BBU Cluj-Napoca
 #### 👨🏽‍💻 Currently working at a [WebApplication](https://github.com/edyeftimie/WebApp)
 #### 📑 You can find more about my profesional carrer in my [resume](https://github.com/edyeftimie/CV/blob/main/CV_Eftimie_Eduard.pdf)
 #### 🎮 Passioned about gaming, expecially AC series & Fifa, and a football lover
