@@ -11,7 +11,8 @@
 #### 🎓 Third year student at BBU Cluj-Napoca
 #### 👨🏽‍💻 Currently working at a [WebApplication](https://github.com/edyeftimie/WebApp)
 #### 📑 You can find more about my profesional carrer in my [resume](https://github.com/edyeftimie/CV/blob/main/CV_Eftimie_Eduard.pdf)
-#### 🎮 Passioned about gaming, expecially AC series & Fifa, and a football lover
+#### 🎮 Passioned about gaming, expecially AC series & Fifa (⚽football enjoyer)
+#### 🐈 Cat lover
 
 # Programming languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
