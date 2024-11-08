@@ -64,4 +64,4 @@
 ![Virtual Machine](https://img.shields.io/badge/Virtual_Machine-424242?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ### Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edyeftimie&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edyeftimie&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
