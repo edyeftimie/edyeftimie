@@ -9,7 +9,7 @@
 
 # About me
 #### 🎓 Final year student at BBU Cluj-Napoca
-#### 👨🏽‍💻 Currently working at a [Mobile application](https://github.com/edyeftimie/RemoteWinery) with versions in both Kotlin and Flutter
+#### 👨🏽‍💻 Currently working at a [Mobile application](https://github.com/edyeftimie/RemoteWinery) with Flutter, Node.js, PostgreSql and a demo test in Kotlin.
 #### 📑 You can find more about my profesional carrer in my [resume](https://github.com/edyeftimie/CV/blob/main/Curriculum%20Vitae.pdf)
 #### 🎮 Passioned about gaming, expecially AC series & Fifa (⚽football enjoyer)
 #### 🐈 Cat lover
