@@ -9,7 +9,8 @@
 
 # About me
 #### 🎓 Final year student at BBU Cluj-Napoca
-#### 👨🏽‍💻 Currently working at a [Mobile application](https://github.com/edyeftimie/RemoteWinery) with Flutter, Node.js, PostgreSql and a demo test in Kotlin.
+#### Currently working at a mobile banking project for Raiffeisen Bank's Think Tank Lab 2025 with Flutter, Springboot, PostgreSQL.
+#### 👨🏽‍💻 Recently finished a [Mobile application](https://github.com/edyeftimie/RemoteWinery) with Flutter, Node.js, PostgreSQL and a demo test in Kotlin too.
 #### 📑 You can find more about my profesional carrer in my [resume](https://github.com/edyeftimie/CV/blob/main/Curriculum%20Vitae.pdf)
 #### 🎮 Passioned about gaming, expecially AC series & Fifa (⚽football enjoyer)
 #### 🐈 Cat lover
