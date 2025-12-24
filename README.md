@@ -57,5 +57,7 @@
 ![Scrum](https://img.shields.io/badge/Scrum-007ACC?style=for-the-badge)
 ![Testing](https://img.shields.io/badge/Testing-4CAF50?style=for-the-badge)
 
+<!--
 ### Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edyeftimie&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+-->
